@@ -1,1 +1,0 @@
-P2 s20w (ITS2) : Aufgabenzettel_1 -> A1
