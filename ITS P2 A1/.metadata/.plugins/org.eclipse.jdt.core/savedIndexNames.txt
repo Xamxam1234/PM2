@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\RAR\ITS P2 A1\.metadata\.plugins\org.eclipse.jdt.core
+576417976.index
+744636462.index
